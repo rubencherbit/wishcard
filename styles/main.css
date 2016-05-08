@@ -1,0 +1,32 @@
+body {
+	font-family: "merry christmas";
+	background-color: #ff2f2f;
+	font-size: 7em;
+	color: white;
+	-webkit-user-select: none;
+	-moz-user-select: -moz-none;
+	-ms-user-select: none;
+	user-select: none;
+}
+#main {
+	width: 500px;
+	height: 200px;
+
+}
+#randompp {
+	text-align: center;
+}
+@font-face {
+	font-family: "merry christmas";
+	src: url('MerryChristmasFlake.ttf');
+}
+
+#click{
+	display: none;
+}
+#click p {
+	text-align: center;
+}
+#hidden {
+	display: none;
+}
